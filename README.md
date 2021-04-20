@@ -12,3 +12,5 @@ npm i
 npm i
 npm i nodemon
 ```
+## 執行圖片
+![image](https://user-images.githubusercontent.com/44516782/115417325-1d12d900-a22b-11eb-9dbd-70f23d50712f.png)
