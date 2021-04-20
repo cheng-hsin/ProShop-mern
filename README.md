@@ -9,12 +9,12 @@
 ## backend/config/mysql.js設定mysql的使用者名稱及密碼
 ![image](https://user-images.githubusercontent.com/44516782/115419827-37e64d00-a22d-11eb-8240-e2007ccb312b.png)
 
-###### 在frontend安裝npm，並啟動
+## 在frontend安裝npm，並啟動
 ```
 npm i
 npm start
 ```
-###### 在最外層安裝npm與nodemon，並啟動
+## 在最外層安裝npm與nodemon，並啟動
 ```
 npm i
 npm i nodemon
